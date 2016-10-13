@@ -85,13 +85,13 @@ play3Text.alpha = 0
 -------------------------------------------------
 -- Button
 -------------------------------------------------
-local r1 = display.newRect( display.contentCenterX, 350, 100, 60 )
+local r1 = display.newRect( display.contentCenterX, 350, 200, 120 )
 r1:setFillColor(1,0,0)
 local btnTextParams = {
 	text = "Reset Sound Button (Mash this!)",
 	x = r1.x,
 	y = r1.y,
-	width = 90,
+	width = 150,
 	font = native.systemFont,
 	fontSize = 13,
 	align = "center",	
@@ -102,13 +102,22 @@ local btnText = display.newText(btnTextParams);
 function r1:touch( event )
     if event.phase == "began" then 
     	
+    	-- Have one of either Test A or Test B commented out.
+    	--[[ Test A
     	if audio.isChannelActive(c1) then 
-    		print("Channel " .. c1 .. " is active --> Stopping audio")
-    		audio.stop(c1) 
+			print("Channel " .. c1 .. " is active --> Stopping audio")
+			print("Stopping " .. c1)
+			audio.stop(c1) 
     	else
-    		print("Channel " .. c1 .. " is not active --> Not stopping audio")
+			print("Channel " .. c1 .. " is not active --> Not stopping audio")
     	end
-    	--print("Stop returned: " .. audio.stop(c1)) --> Uncomment if you would like to test if audio.stop(c1) is actually working
+    	print("Stop returned: " .. audio.stop(c1)) --> Uncomment if you would like to test if audio.stop(c1) is actually working
+    	--]]
+
+    	---[[ Test B
+    	print("Stopping " .. c1)
+		audio.stop(c1) 
+		--]]
 
      	local channelReturned = audio.play(s1, { channel = c1 })
     	if channelReturned == 0 then
