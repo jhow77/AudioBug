@@ -102,14 +102,14 @@ local btnText = display.newText(btnTextParams);
 function r1:touch( event )
     if event.phase == "began" then 
     	
-    	-- if audio.isChannelActive(c1) then 
-    	-- 	print("Channel " .. c1 .. " is active --> Stopping audio")
-    	-- 	audio.stop(c1) 
-    	-- else
-    	-- 	print("Channel " .. c1 .. " is not active --> Not stopping audio")
-    	-- end
+    	if audio.isChannelActive(c1) then 
+    		print("Channel " .. c1 .. " is active --> Stopping audio")
+    		audio.stop(c1) 
+    	else
+    		print("Channel " .. c1 .. " is not active --> Not stopping audio")
+    	end
     	--print("Stop returned: " .. audio.stop(c1)) --> Uncomment if you would like to test if audio.stop(c1) is actually working
-    	print("Channel: " .. c1)
+
      	local channelReturned = audio.play(s1, { channel = c1 })
     	if channelReturned == 0 then
     		print("audio.play returning 0. Did not play audio.")
