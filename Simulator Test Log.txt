@@ -1,0 +1,46 @@
+Oct 13 12:48:42.488 Copyright (C) 2009-2016  C o r o n a   L a b s   I n c . 	Version: 3.0.0 	Build: 2016.2970
+Oct 13 12:48:42.502 Loading project from:   ~/Development/Repositories/AudioBug
+Oct 13 12:48:42.502 Project sandbox folder: ~/Library/Application Support/Corona Simulator/AudioBug-9EECD3BE02DCAC85D71E906D69B1EA3C
+Oct 13 12:48:42.527 Platform: iPad / x86_64 / 10.11.6 / NVIDIA GeForce GT 750M OpenGL Engine / 2.1 NVIDIA-10.10.13 310.42.25f01 / 2016.2970 / en | US | en_US | en
+Oct 13 12:48:43.347 Stopping 1
+Oct 13 12:48:43.347 Playing on Channel: 1
+Oct 13 12:48:43.443 Stopping 1 Playing on Channel: 1
+Oct 13 12:48:43.564 Stopping 1 Playing on Channel: 1
+Oct 13 12:48:43.700 Stopping 1
+Oct 13 12:48:43.700 Playing on Channel: 1
+Oct 13 12:48:43.851 Stopping 1
+Oct 13 12:48:43.851 Playing on Channel: 1
+Oct 13 12:48:44.004 Stopping 1 Playing on Channel: 1
+Oct 13 12:48:44.108 Stopping 1 Playing on Channel: 1
+Oct 13 12:48:44.236 Stopping 1 Playing on Channel: 1
+Oct 13 12:48:44.372 Stopping 1 Playing on Channel: 1
+Oct 13 12:48:44.492 Stopping 1 Playing on Channel: 1
+Oct 13 12:48:44.612 Stopping 1 Playing on Channel: 1
+Oct 13 12:48:44.740 Stopping 1 Playing on Channel: 1
+Oct 13 12:48:44.875 Stopping 1 Playing on Channel: 1
+Oct 13 12:48:45.004 Stopping 1
+Oct 13 12:48:45.004 Playing on Channel: 1
+Oct 13 12:48:45.140 Stopping 1 Playing on Channel: 1
+Oct 13 12:48:45.276 Stopping 1
+Oct 13 12:48:45.276 Playing on Channel: 1
+Oct 13 12:48:45.412 Stopping 1
+Oct 13 12:48:45.412 Playing on Channel: 1
+Oct 13 12:48:45.548 Stopping 1
+Oct 13 12:48:45.548 Playing on Channel: 1
+Oct 13 12:48:45.692 Stopping 1 Playing on Channel: 1
+Oct 13 12:48:45.836 Stopping 1 Playing on Channel: 1
+Oct 13 12:48:45.980 Stopping 1
+Oct 13 12:48:45.980 Playing on Channel: 1
+Oct 13 12:48:45.987 17dTesting Error with clearing buffer from source: Invalid OperationWarning: audio error: Failed to clear buffer from source: Invalid Operation
+Oct 13 12:48:46.124 Stopping 1
+Oct 13 12:48:46.124 Warning: audio error: Could not bind data to source: Invalid Operation audio.play returning 0. Did not play audio.
+Oct 13 12:48:46.268 Stopping 1 Warning: audio error: Could not bind data to source: Invalid Operation
+Oct 13 12:48:46.268 audio.play returning 0. Did not play audio.
+Oct 13 12:48:46.828 Stopping 1
+Oct 13 12:48:46.828 Warning: audio error: Could not bind data to source: Invalid Operation audio.play returning 0. Did not play audio.
+Oct 13 12:48:47.004 Stopping 1 Warning: audio error: Could not bind data to source: Invalid Operation
+Oct 13 12:48:47.004 audio.play returning 0. Did not play audio.
+Oct 13 12:48:47.172 Stopping 1 Warning: audio error: Could not bind data to source: Invalid Operation
+Oct 13 12:48:47.172 audio.play returning 0. Did not play audio.
+Oct 13 12:48:47.564 Stopping 1 Warning: audio error: Could not bind data to source: Invalid Operation
+Oct 13 12:48:47.564 audio.play returning 0. Did not play audio.

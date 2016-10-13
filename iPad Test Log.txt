@@ -1,0 +1,17 @@
+Oct 13 12:58:05 Jeffs-Work-iPad Audio Bug 3[315] <Notice>: Playing on Channel: 1
+Oct 13 12:58:06 Jeffs-Work-iPad Audio Bug 3[315] <Notice>: Stopping 1
+Oct 13 12:58:06 Jeffs-Work-iPad Audio Bug 3[315] <Notice>: audio.play returning 0. Did not play audio.
+Oct 13 12:58:06 Jeffs-Work-iPad Audio Bug 3[315] <Notice>: Stopping 1
+Oct 13 12:58:06 Jeffs-Work-iPad Audio Bug 3[315] <Notice>: audio.play returning 0. Did not play audio.
+Oct 13 12:58:06 Jeffs-Work-iPad Audio Bug 3[315] <Notice>: Stopping 1
+Oct 13 12:58:06 Jeffs-Work-iPad Audio Bug 3[315] <Notice>: audio.play returning 0. Did not play audio.
+Oct 13 12:58:06 Jeffs-Work-iPad Audio Bug 3[315] <Notice>: Stopping 1
+Oct 13 12:58:06 Jeffs-Work-iPad Audio Bug 3[315] <Notice>: audio.play returning 0. Did not play audio.
+Oct 13 12:58:06 Jeffs-Work-iPad Audio Bug 3[315] <Notice>: Stopping 1
+Oct 13 12:58:06 Jeffs-Work-iPad Audio Bug 3[315] <Notice>: audio.play returning 0. Did not play audio.
+Oct 13 12:58:06 Jeffs-Work-iPad Audio Bug 3[315] <Notice>: Stopping 1
+Oct 13 12:58:06 Jeffs-Work-iPad Audio Bug 3[315] <Notice>: audio.play returning 0. Did not play audio.
+Oct 13 12:58:06 Jeffs-Work-iPad Audio Bug 3[315] <Notice>: Stopping 1
+Oct 13 12:58:06 Jeffs-Work-iPad Audio Bug 3[315] <Notice>: audio.play returning 0. Did not play audio.
+Oct 13 12:58:06 Jeffs-Work-iPad Audio Bug 3[315] <Notice>: Stopping 1
+Oct 13 12:58:06 Jeffs-Work-iPad Audio Bug 3[315] <Notice>: audio.play returning 0. Did not play audio.
